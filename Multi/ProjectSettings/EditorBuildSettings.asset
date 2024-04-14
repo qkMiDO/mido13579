@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: c6c2fd878181d2a49a5f0dc3d16a4a3e
+  - enabled: 1
+    path: Assets/Scenes/game.unity
+    guid: f7a79d48acdc90a4db626915e2f3ffb8
+  - enabled: 1
+    path: Assets/Scenes/game2.unity
+    guid: 564d9047ebf0ffc4080a32656c50bdef
+  - enabled: 1
+    path: Assets/Scenes/Game Menu.unity
+    guid: 41f0842df9a926346891ee7a3b6b2101
+  - enabled: 1
+    path: Assets/Scenes/game over.unity
+    guid: 7bcdfc965f68a1645b347f32489d6668
+  - enabled: 1
+    path: Assets/Scenes/game3.unity
+    guid: c9caf770699c34a439d7cbfa561a8e32
+  - enabled: 1
+    path: Assets/Scenes/game4.unity
+    guid: e86ef8e87182dc3498dafe17971ec154
+  - enabled: 1
+    path: Assets/Scenes/game5.unity
+    guid: 70fdf395f3569d64c85c46e584f7a419
+  - enabled: 1
+    path: Assets/Scenes/game6.unity
+    guid: 766965b5b9c5adb4fb265e96764e8137
+  - enabled: 1
+    path: Assets/Scenes/game7.unity
+    guid: 3687d5edcd4e51447aabaf1993ce8179
+  - enabled: 1
+    path: Assets/Scenes/game8.unity
+    guid: c1fa526d8f90df8419f315b2f0f5c536
+  - enabled: 1
+    path: Assets/Scenes/game9.unity
+    guid: 4183adc3577a06d458bbe66001248cea
+  - enabled: 1
+    path: Assets/Scenes/game10.unity
+    guid: 660821cdc26bdc84daa0cba9a77aceff
+  - enabled: 1
+    path: Assets/Scenes/game11.unity
+    guid: 5fa45478e06ad31478185605f08933d6
+  - enabled: 1
+    path: Assets/Scenes/game12.unity
+    guid: 9265472cc552f2949b11b72cd3f2a418
+  - enabled: 1
+    path: Assets/Scenes/endgame.unity
+    guid: 2f34c5af66afe0649a1bd9398e3e4a05
+  - enabled: 1
+    path: Assets/Scenes/levels.unity
+    guid: adda127bf79076641accf94a0a73b92e
+  - enabled: 1
+    path: Assets/Scenes/tset(1).unity
+    guid: 2df4dc20154918d44abf9c1d92030093
+  - enabled: 1
+    path: Assets/Scenes/test(2).unity
+    guid: 6318be9ef609058438c88a0acfd2c054
+  - enabled: 1
+    path: Assets/Scenes/test(3).unity
+    guid: 8b814b8580a78b8408900b0610db8ec6
+  - enabled: 1
+    path: Assets/Scenes/endtest.unity
+    guid: 48dd4ed8da0c1be46943188b8df75305
+  m_configObjects: {}
